@@ -1,7 +1,4 @@
-
-      
-
-h1 { color: rgb(235, 15, 150); } 
+h1 { color: rgb(8, 0, 5); } 
 
 
         .menu{
@@ -32,7 +29,7 @@ h1 { color: rgb(235, 15, 150); }
            opacity:0.33;
      }
 
-  .header{background-color: rgb(248, 6, 139);
+  .header{background-color: rgb(248, 6, 248);
   font-style: italic;
     
  display:flex;
@@ -49,17 +46,4 @@ font-style: italic;
 justify-content: space-between;
 
 
-}
-#imagelist{
-      font-size: 10cm;
-      border: 100px;
-      width: 1500px;
-}
-.footer{background-color: rgb(56, 90, 241);
-display: flex;
-justify-content: left;
-flex-wrap: wrap;
-}
-body{
-      background-color: rgb(10, 6, 252);
 }
